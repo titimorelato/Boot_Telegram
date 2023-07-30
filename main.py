@@ -1,5 +1,7 @@
 from typing import LiteralString
-
+"""
+Versões de Teste GitHub
+"""
 import telebot
 
 CHAVE_API = "6348037969:AAGKSPAbKFgBxPn1RnFV2CIcLAufu8wHL2w"
